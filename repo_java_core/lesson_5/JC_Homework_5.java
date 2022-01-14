@@ -81,7 +81,7 @@ public class JC_Homework_5 {
 
         // Создаем новый объект класса AppData из полученных из файла данных
         AppData newChineseHoroscope = new AppData(header2, data2);
-        System.out.println("New array:");
+        System.out.println("New array: ");
         newChineseHoroscope.printAppData();
     }
 }
