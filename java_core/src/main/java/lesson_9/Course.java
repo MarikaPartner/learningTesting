@@ -1,0 +1,5 @@
+package lesson_9;
+
+public enum Course {
+    PROGRAMMING, STATISTICS, TESTING, INFORMATION_SECURITY, NETWORKS;
+}
